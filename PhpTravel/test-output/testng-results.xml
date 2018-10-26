@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10848" started-at="2018-10-25T23:58:15Z" finished-at="2018-10-25T23:58:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10848" started-at="2018-10-25T23:58:15Z" finished-at="2018-10-25T23:58:26Z">
+      <class name="Test.Registervalidation">
+        <test-method status="PASS" signature="startbrower()[pri:0, instance:Test.Registervalidation@4b4523f8]" name="startbrower" is-config="true" duration-ms="6203" started-at="2018-10-25T23:58:15Z" finished-at="2018-10-25T23:58:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startbrower -->
+        <test-method status="PASS" signature="Registerpagevalidation()[pri:0, instance:Test.Registervalidation@4b4523f8]" name="Registerpagevalidation" duration-ms="4497" started-at="2018-10-25T23:58:22Z" finished-at="2018-10-25T23:58:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Registerpagevalidation -->
+        <test-method status="PASS" signature="closebrower()[pri:0, instance:Test.Registervalidation@4b4523f8]" name="closebrower" is-config="true" duration-ms="118" started-at="2018-10-25T23:58:26Z" finished-at="2018-10-25T23:58:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrower -->
+      </class> <!-- Test.Registervalidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
